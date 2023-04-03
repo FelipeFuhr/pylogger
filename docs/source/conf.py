@@ -13,7 +13,7 @@ import sys
 project = "Logger"
 author = "Felipe"
 
-sys.path.insert(0, os.path.abspath("../logger"))
+sys.path.insert(0, os.path.abspath("./logger"))
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
